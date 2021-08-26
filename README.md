@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Th4nni
-- 👀 I’m interested in learning ne stuff
+- 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning phyton and HTML
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me: dm me :)
